@@ -1,16 +1,12 @@
-# rsvp
+## How to run the project on you local systems?	
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.	Clone the repository:
+	•	Download the project repository to your local machine using your preferred method (e.g., git clone or downloading the zip file from the repository).
+2.	Navigate to the project directory:
+	•	Open a terminal or command prompt and change the directory to the project’s root folder.
+3.	Install Flutter dependencies:
+	•	Ensure Flutter is installed on your machine and added to your system path.
+	•	Run flutter pub get to install all the necessary dependencies.
+4.	Run the Flutter project:
+	•	Use flutter run to start the project on an emulator or a connected device.
+	•	Follow any additional on-screen instructions provided by the Flutter CLI.
